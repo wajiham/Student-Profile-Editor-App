@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Student Profile Editor</string>
+    <string name="student_profile">Student Profile</string>
+    <string name="name">Name:</string>
+    <string name="course">Course:</string>
+    <string name="save_button">Save</string>
+    <string name="edit_button">Edit</string>
+</resources>
