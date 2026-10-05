@@ -41,13 +41,13 @@ The app starts in editing mode:
 ### Editing Mode
 
 <p align="center">
-  <img src="./screenshots/Editing-Page.png" width="700">
+  <img src="./screenshots/Editing-Page.png" width="300">
 </p>
 
 ### Display Mode
 
 <p align="center">
-  <img src="./screenshots/Display-Page.png" width="700">
+  <img src="./screenshots/Display-Page.png" width="300">
 </p>
 
 
