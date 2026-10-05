@@ -40,11 +40,16 @@ The app starts in editing mode:
 
 ### Editing Mode
 
-![Editing Screen](./screenshots/Editing-Page.png)
+<p align="center">
+  <img src="./screenshots/Editing-Page.png" width="700">
+</p>
 
 ### Display Mode
 
-![Display Screen](./screenshots/Display-Page.png)
+<p align="center">
+  <img src="./screenshots/Display-Page.png" width="700">
+</p>
+
 
 ## Built With
 
